@@ -1,0 +1,6 @@
+[submodule "midi-emotion"]
+	path = midi-emotion
+	url = ./midi-emotion
+[submodule "music-generator"]
+	path = music-generator
+	url = ./music-generator
