@@ -1,6 +1,6 @@
 [submodule "midi-emotion"]
-	path = midi-emotion
-	url = ./midi-emotion
+    path = midi-emotion
+	url = https://github.com/rasimgil/midi-emotion.git
 [submodule "music-generator"]
-	path = music-generator
-	url = ./music-generator
+    path = music-generator
+	url = https://github.com/rasimgil/music-generator.git
