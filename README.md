@@ -9,7 +9,7 @@ To set up and run the application, follow these instructions:
     cd thesis-rasimgil
     ```
 
-2. Download the zip file containing models from the `https://drive.google.com/file/d/18FTAWdRAgls9x-QS3QcX2-ZIkhFtp6n7/view?usp=sharing` and extract the file into the './midi-emotion/output' directory.
+2. Download the zip file containing models from this [link](https://drive.google.com/file/d/18FTAWdRAgls9x-QS3QcX2-ZIkhFtp6n7/view?usp=sharing) and extract the file into the `./midi-emotion/output` directory.
 
 3. Setup the Python virtual environment:
 
