@@ -46,7 +46,7 @@ To set up and run the application, follow these instructions:
 
 7. Access the application from your browser at `localhost:3000`.
 
-Alternatively, there is a Makefile that automates steps 3-5.
+Alternatively, there is a Makefile that automates steps 3-6.
 
 1. To setup the application, run `make`
 2. To test the functionality of the Timidity++ port, run `make test`
